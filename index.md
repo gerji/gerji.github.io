@@ -3,19 +3,19 @@
 
 ## 导图
 
-- `**mindnode**`
+- `Mindnode`
 
 - xmind
 
 ## 文档
 
-- `**Yu Writer**`
+- `Yu Writer`
 
 ## 图片
 
 - xnview
 
-- `**snipaste**`
+- `Snipaste`
 
 - picpick
 
@@ -23,7 +23,7 @@
 
 ## 声音
 
-- `**logic**`
+- `Logic`
 
 - audition
 
@@ -41,7 +41,7 @@
 
 ## 远程
 
-- `**anydesk**`
+- `Anydesk`
 
 ## 扫描
 
@@ -83,7 +83,7 @@
 
 - mx
 
-- `kodi`
+- `Kodi`
 
 - iptv
 
