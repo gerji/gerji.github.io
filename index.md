@@ -1,37 +1,89 @@
-## 
+# 常用APP
 
-You can use the [editor on GitHub](https://github.com/gerji/gerji.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 导图
 
-### Markdown
+- `**mindnode**`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- xmind
 
-```markdown
-Syntax highlighted code block
+## 文档
 
-# Header 1
-## Header 2
-### Header 3
+- `**Yu Writer**`
 
-- Bulleted
-- List
+## 图片
 
-1. Numbered
-2. List
+- xnview
 
-**Bold** and _Italic_ and `Code` text
+- `**snipaste**`
 
-[Link](url) and ![Image](src)
-```
+- picpick
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- snapseed
 
-### Jekyll Themes
+## 声音
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gerji/gerji.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- `**logic**`
 
-### Support or Contact
+- audition
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- studio one
+
+## 视频
+
+- final cut
+
+## 传输
+
+- feem
+
+- 坚果云
+
+## 远程
+
+- `**anydesk**`
+
+## 扫描
+
+- 扫描全能王
+
+- scanbot
+
+## 科学
+
+- shad
+
+## 包装
+
+- `ArtiosCAD`
+- PackMage
+
+## 工具
+
+- 极简汇率
+
+- 彩云天气
+
+- pandowload
+
+- 闪电下载
+
+- `TickTick`
+
+- reeder
+- `Everything`
+
+## 影音
+
+- `nplayer`
+
+- vlc
+
+- km
+
+- mx
+
+- `kodi`
+
+- iptv
+
